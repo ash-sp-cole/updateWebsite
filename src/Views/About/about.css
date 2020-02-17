@@ -1,0 +1,42 @@
+
+
+
+
+.Style {
+background: none !important;
+color: white;
+text-align: right !important;
+margin-right: 100px;
+padding-top: 35vh;
+}
+
+
+.caroBox {
+
+    height: 55%;
+    width: 50%;
+    float: right;
+
+
+}
+
+img {
+ 
+size: inherit !important;
+
+}
+.butt{
+    color: white !important;
+}
+
+.styleModal {
+
+   
+        background: none !important;
+      
+       
+       
+        padding-top: 3vh;
+        
+
+}

@@ -1,0 +1,165 @@
+body {
+
+    background-image: url("mist.jpeg");
+    background-size: auto;
+    background-repeat: no-repeat;
+
+}
+
+#slide-out{
+
+width: 21%;
+min-width: 200px;
+}
+
+main {
+    color: white;
+}
+
+a { 
+    color: whitesmoke;
+    z-index: 10;
+}
+
+h1 {
+
+    text-align: right;
+}
+.jumbotron {
+    z-index: 5000;
+}
+#jumbo{
+    background: none;
+    z-index: 5000;
+margin-top: 250px;
+}
+.jumbo:hover {
+    opacity: 0.9;
+}
+
+
+.dropdown-content {
+
+  min-width: 350px !important;
+}
+
+.btn {
+    background: none;
+}
+
+h3{
+    color: black;
+
+}
+
+
+h5{
+    color: black;
+
+}
+
+.tap-target-wrapper{
+
+height: 0 !important;
+
+}
+
+#footer{
+
+    opacity: 1.0; 
+}
+
+#task {
+    size:auto;
+}
+.fixed-action-btn{
+    left:50px;/*desired value*/
+   top: 50px;
+   right:-1px !important;
+   width : 5% !important;
+   height :100px !important;
+   z-index: -1 !important;
+    }
+
+ 
+
+    }
+    a {
+        color: whitesmoke;
+      }
+.text {
+    position: absolute;
+    width: 450px;
+    left: 55%;
+    margin-left: -225px;
+    margin-right: 150px;
+    height: 40px;
+    top: 50%;
+    margin-top: -20px;
+  }
+  
+  p {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+  }
+  
+  .word {
+    position: absolute;
+    width: 220px;
+    opacity: 0;
+    margin-top: 5px;
+  }
+  
+  .letter {
+    display: inline-block;
+    position: relative;
+  
+
+
+    transform: translateZ(25px);
+    transform-origin: 50% 50% 25px;
+  }
+  
+  .letter.out {
+    transform: rotateX(90deg);
+    transition: transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  
+  .letter.behind {
+    transform: rotateX(-90deg);
+  }
+  
+  .letter.in {
+    transform: rotateX(0deg);
+    transition: transform 0.38s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+  
+  .wisteria {
+    color: #8e44ad;
+  }
+  
+  .belize {
+    color: #2980b9;
+  }
+  
+  .pomegranate {
+    color: #c0392b;
+  }
+  
+  .green {
+    color: #16a085;
+  }
+  
+  .midnight {
+    color: #2c3e50;
+  }
+  
+  span {
+
+    color: white;
+  }
+
+  #modalBox {
+    background-color: blue);
+  }
